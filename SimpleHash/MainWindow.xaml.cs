@@ -254,5 +254,10 @@ namespace SimpleHash
         }
 
         #endregion
+
+        private void CreateFileList_OnClick(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
